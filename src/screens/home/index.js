@@ -1,5 +1,5 @@
 import { View, Text, Image, StyleSheet } from 'react-native';
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import Fonts from '../../theme/Fonts';
 import { Details } from './components/Details'
 
